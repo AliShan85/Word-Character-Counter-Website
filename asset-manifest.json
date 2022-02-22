@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Word-Character-Counter-Website/static/css/main.9311cd49.chunk.css",
+    "main.js": "/Word-Character-Counter-Website/static/js/main.7fc7239d.chunk.js",
+    "main.js.map": "/Word-Character-Counter-Website/static/js/main.7fc7239d.chunk.js.map",
+    "runtime-main.js": "/Word-Character-Counter-Website/static/js/runtime-main.83c32e9c.js",
+    "runtime-main.js.map": "/Word-Character-Counter-Website/static/js/runtime-main.83c32e9c.js.map",
+    "static/js/2.6ddb03fd.chunk.js": "/Word-Character-Counter-Website/static/js/2.6ddb03fd.chunk.js",
+    "static/js/2.6ddb03fd.chunk.js.map": "/Word-Character-Counter-Website/static/js/2.6ddb03fd.chunk.js.map",
+    "static/js/3.74050d98.chunk.js": "/Word-Character-Counter-Website/static/js/3.74050d98.chunk.js",
+    "static/js/3.74050d98.chunk.js.map": "/Word-Character-Counter-Website/static/js/3.74050d98.chunk.js.map",
+    "index.html": "/Word-Character-Counter-Website/index.html",
+    "static/css/main.9311cd49.chunk.css.map": "/Word-Character-Counter-Website/static/css/main.9311cd49.chunk.css.map",
+    "static/js/2.6ddb03fd.chunk.js.LICENSE.txt": "/Word-Character-Counter-Website/static/js/2.6ddb03fd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.83c32e9c.js",
+    "static/js/2.6ddb03fd.chunk.js",
+    "static/css/main.9311cd49.chunk.css",
+    "static/js/main.7fc7239d.chunk.js"
+  ]
+}
